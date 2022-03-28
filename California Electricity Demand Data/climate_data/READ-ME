@@ -1,0 +1,9 @@
+zoneX... = climate data for climate zone X.
+
+...max = Average of all the hottest daily temperatures in a year.
+
+...min = Average of all coldest daily temperatures in a year.
+
+...ex = Number of days in a year when daily maximum temperature is above a threshold temperature of XXX °F.$
+Note: Threshold temperature used in this tool is location specific. It is defined as the 98th percentile value of historical daily maximum/minimum temperatures
+(from 1961–1990, between April and October) observed at a location.
