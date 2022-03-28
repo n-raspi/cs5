@@ -1,0 +1,306 @@
+units,days 
+ 
+ label,year,min,average,max
+Medium Emissions (RCP 4.5),2006,2,12,30
+Medium Emissions (RCP 4.5),2007,0,8.375,22
+Medium Emissions (RCP 4.5),2008,0,11.40625,26
+Medium Emissions (RCP 4.5),2009,1,11.46875,24
+Medium Emissions (RCP 4.5),2010,0,11.46875,24
+Medium Emissions (RCP 4.5),2011,4,14.1875,25
+Medium Emissions (RCP 4.5),2012,2,16.25,34
+Medium Emissions (RCP 4.5),2013,0,11.90625,28
+Medium Emissions (RCP 4.5),2014,0,12.65625,35
+Medium Emissions (RCP 4.5),2015,1,13.53125,31
+Medium Emissions (RCP 4.5),2016,4,14.78125,28
+Medium Emissions (RCP 4.5),2017,1,12.53125,34
+Medium Emissions (RCP 4.5),2018,3,13.78125,40
+Medium Emissions (RCP 4.5),2019,3,15.84375,34
+Medium Emissions (RCP 4.5),2020,0,13.125,27
+Medium Emissions (RCP 4.5),2021,0,13.65625,28
+Medium Emissions (RCP 4.5),2022,4,18.28125,36
+Medium Emissions (RCP 4.5),2023,4,16.84375,49
+Medium Emissions (RCP 4.5),2024,3,15.875,40
+Medium Emissions (RCP 4.5),2025,3,19.15625,42
+Medium Emissions (RCP 4.5),2026,4,19.84375,38
+Medium Emissions (RCP 4.5),2027,1,17.75,43
+Medium Emissions (RCP 4.5),2028,0,18.71875,43
+Medium Emissions (RCP 4.5),2029,7,21.875,43
+Medium Emissions (RCP 4.5),2030,2,18.3125,40
+Medium Emissions (RCP 4.5),2031,6,20.15625,41
+Medium Emissions (RCP 4.5),2032,5,19.46875,44
+Medium Emissions (RCP 4.5),2033,4,22.4375,48
+Medium Emissions (RCP 4.5),2034,3,25.65625,48
+Medium Emissions (RCP 4.5),2035,8,21.6875,60
+Medium Emissions (RCP 4.5),2036,2,22.5,50
+Medium Emissions (RCP 4.5),2037,3,24.4375,49
+Medium Emissions (RCP 4.5),2038,10,22.40625,44
+Medium Emissions (RCP 4.5),2039,7,23.28125,39
+Medium Emissions (RCP 4.5),2040,6,24.1875,51
+Medium Emissions (RCP 4.5),2041,0,24.15625,58
+Medium Emissions (RCP 4.5),2042,8,26.0625,48
+Medium Emissions (RCP 4.5),2043,5,25.09375,54
+Medium Emissions (RCP 4.5),2044,7,24.875,46
+Medium Emissions (RCP 4.5),2045,8,25.75,52
+Medium Emissions (RCP 4.5),2046,9,26.90625,82
+Medium Emissions (RCP 4.5),2047,3,28.28125,53
+Medium Emissions (RCP 4.5),2048,11,27.0625,62
+Medium Emissions (RCP 4.5),2049,10,24.96875,51
+Medium Emissions (RCP 4.5),2050,2,27.34375,62
+Medium Emissions (RCP 4.5),2051,8,26.875,52
+Medium Emissions (RCP 4.5),2052,12,28.4375,60
+Medium Emissions (RCP 4.5),2053,9,27.8125,58
+Medium Emissions (RCP 4.5),2054,1,24.625,49
+Medium Emissions (RCP 4.5),2055,6,29.125,54
+Medium Emissions (RCP 4.5),2056,3,29.21875,65
+Medium Emissions (RCP 4.5),2057,8,29.78125,54
+Medium Emissions (RCP 4.5),2058,12,31.75,54
+Medium Emissions (RCP 4.5),2059,9,28.84375,55
+Medium Emissions (RCP 4.5),2060,3,27.8125,67
+Medium Emissions (RCP 4.5),2061,12,27.96875,63
+Medium Emissions (RCP 4.5),2062,4,33.53125,61
+Medium Emissions (RCP 4.5),2063,8,30.78125,54
+Medium Emissions (RCP 4.5),2064,10,29.625,52
+Medium Emissions (RCP 4.5),2065,10,29.9375,61
+Medium Emissions (RCP 4.5),2066,11,29.71875,61
+Medium Emissions (RCP 4.5),2067,6,29.875,66
+Medium Emissions (RCP 4.5),2068,13,32.34375,51
+Medium Emissions (RCP 4.5),2069,5,29.4375,49
+Medium Emissions (RCP 4.5),2070,13,32.96875,61
+Medium Emissions (RCP 4.5),2071,15,33,66
+Medium Emissions (RCP 4.5),2072,0,32.0625,59
+Medium Emissions (RCP 4.5),2073,14,29.59375,61
+Medium Emissions (RCP 4.5),2074,6,30.65625,82
+Medium Emissions (RCP 4.5),2075,9,34.96875,66
+Medium Emissions (RCP 4.5),2076,8,31.5,56
+Medium Emissions (RCP 4.5),2077,2,32.375,60
+Medium Emissions (RCP 4.5),2078,13,34.09375,71
+Medium Emissions (RCP 4.5),2079,3,32.5,60
+Medium Emissions (RCP 4.5),2080,18,33.3125,61
+Medium Emissions (RCP 4.5),2081,9,32.09375,76
+Medium Emissions (RCP 4.5),2082,9,30.5625,58
+Medium Emissions (RCP 4.5),2083,9,33.40625,80
+Medium Emissions (RCP 4.5),2084,6,33.46875,85
+Medium Emissions (RCP 4.5),2085,15,31.5625,63
+Medium Emissions (RCP 4.5),2086,11,31.8125,64
+Medium Emissions (RCP 4.5),2087,12,31.25,61
+Medium Emissions (RCP 4.5),2088,15,33.34375,72
+Medium Emissions (RCP 4.5),2089,5,34.46875,79
+Medium Emissions (RCP 4.5),2090,10,31.65625,55
+Medium Emissions (RCP 4.5),2091,13,36.40625,71
+Medium Emissions (RCP 4.5),2092,8,35.90625,64
+Medium Emissions (RCP 4.5),2093,14,33.34375,66
+Medium Emissions (RCP 4.5),2094,13,34.71875,68
+Medium Emissions (RCP 4.5),2095,8,36.25,73
+Medium Emissions (RCP 4.5),2096,15,32.5,57
+Medium Emissions (RCP 4.5),2097,15,36.03125,82
+Medium Emissions (RCP 4.5),2098,9,36.625,83
+Medium Emissions (RCP 4.5),2099,10,32.46875,76
+Medium Emissions (RCP 4.5),2100,10,33.5925925926,82
+High Emissions (RCP 8.5),2006,1,13.3125,32
+High Emissions (RCP 8.5),2007,3,12.40625,31
+High Emissions (RCP 8.5),2008,2,11.5,24
+High Emissions (RCP 8.5),2009,0,12.375,27
+High Emissions (RCP 8.5),2010,3,11.84375,29
+High Emissions (RCP 8.5),2011,0,12.96875,28
+High Emissions (RCP 8.5),2012,1,17.15625,36
+High Emissions (RCP 8.5),2013,0,14.1875,32
+High Emissions (RCP 8.5),2014,6,16.03125,31
+High Emissions (RCP 8.5),2015,0,15.53125,38
+High Emissions (RCP 8.5),2016,0,14.78125,30
+High Emissions (RCP 8.5),2017,3,14.28125,24
+High Emissions (RCP 8.5),2018,1,14.5,29
+High Emissions (RCP 8.5),2019,3,16.375,28
+High Emissions (RCP 8.5),2020,2,18.5,35
+High Emissions (RCP 8.5),2021,6,17.03125,35
+High Emissions (RCP 8.5),2022,5,16.1875,37
+High Emissions (RCP 8.5),2023,4,18.375,41
+High Emissions (RCP 8.5),2024,6,16.96875,32
+High Emissions (RCP 8.5),2025,5,20.09375,40
+High Emissions (RCP 8.5),2026,1,21.375,44
+High Emissions (RCP 8.5),2027,3,18.0625,36
+High Emissions (RCP 8.5),2028,5,22.03125,59
+High Emissions (RCP 8.5),2029,4,21.90625,41
+High Emissions (RCP 8.5),2030,4,20.34375,43
+High Emissions (RCP 8.5),2031,5,24.28125,41
+High Emissions (RCP 8.5),2032,3,21.875,41
+High Emissions (RCP 8.5),2033,2,24.15625,62
+High Emissions (RCP 8.5),2034,7,24.125,48
+High Emissions (RCP 8.5),2035,2,26.25,50
+High Emissions (RCP 8.5),2036,3,23.75,45
+High Emissions (RCP 8.5),2037,5,27.59375,53
+High Emissions (RCP 8.5),2038,5,27.625,58
+High Emissions (RCP 8.5),2039,4,25.25,46
+High Emissions (RCP 8.5),2040,12,27.75,51
+High Emissions (RCP 8.5),2041,11,26.9375,46
+High Emissions (RCP 8.5),2042,7,28.46875,70
+High Emissions (RCP 8.5),2043,5,26.375,48
+High Emissions (RCP 8.5),2044,11,28.4375,51
+High Emissions (RCP 8.5),2045,10,27.46875,54
+High Emissions (RCP 8.5),2046,9,30.75,59
+High Emissions (RCP 8.5),2047,8,30.0625,61
+High Emissions (RCP 8.5),2048,4,30.03125,60
+High Emissions (RCP 8.5),2049,5,33.28125,57
+High Emissions (RCP 8.5),2050,5,29.21875,61
+High Emissions (RCP 8.5),2051,5,32.34375,65
+High Emissions (RCP 8.5),2052,6,34.28125,76
+High Emissions (RCP 8.5),2053,7,33.5,55
+High Emissions (RCP 8.5),2054,6,36.34375,68
+High Emissions (RCP 8.5),2055,10,35.0625,67
+High Emissions (RCP 8.5),2056,9,37.15625,77
+High Emissions (RCP 8.5),2057,2,36.65625,75
+High Emissions (RCP 8.5),2058,12,34.6875,62
+High Emissions (RCP 8.5),2059,9,36.65625,70
+High Emissions (RCP 8.5),2060,15,36.75,61
+High Emissions (RCP 8.5),2061,15,41.53125,80
+High Emissions (RCP 8.5),2062,9,41.25,72
+High Emissions (RCP 8.5),2063,9,38.34375,80
+High Emissions (RCP 8.5),2064,13,45.34375,106
+High Emissions (RCP 8.5),2065,17,42.03125,70
+High Emissions (RCP 8.5),2066,16,46.46875,68
+High Emissions (RCP 8.5),2067,22,48.75,77
+High Emissions (RCP 8.5),2068,20,45.78125,83
+High Emissions (RCP 8.5),2069,19,47.21875,73
+High Emissions (RCP 8.5),2070,7,46.625,108
+High Emissions (RCP 8.5),2071,16,48.5,82
+High Emissions (RCP 8.5),2072,28,53.6875,98
+High Emissions (RCP 8.5),2073,21,50.84375,87
+High Emissions (RCP 8.5),2074,31,53.03125,82
+High Emissions (RCP 8.5),2075,22,52.84375,104
+High Emissions (RCP 8.5),2076,25,53.25,96
+High Emissions (RCP 8.5),2077,28,58.46875,89
+High Emissions (RCP 8.5),2078,15,55.03125,109
+High Emissions (RCP 8.5),2079,25,59.21875,99
+High Emissions (RCP 8.5),2080,26,63.5,121
+High Emissions (RCP 8.5),2081,29,57.09375,107
+High Emissions (RCP 8.5),2082,23,59.78125,108
+High Emissions (RCP 8.5),2083,37,58.21875,113
+High Emissions (RCP 8.5),2084,27,60.875,115
+High Emissions (RCP 8.5),2085,16,58.9375,117
+High Emissions (RCP 8.5),2086,39,63.65625,106
+High Emissions (RCP 8.5),2087,33,63.03125,106
+High Emissions (RCP 8.5),2088,33,60.84375,100
+High Emissions (RCP 8.5),2089,28,65.28125,136
+High Emissions (RCP 8.5),2090,30,70.5,153
+High Emissions (RCP 8.5),2091,30,66.125,94
+High Emissions (RCP 8.5),2092,42,69.0625,123
+High Emissions (RCP 8.5),2093,38,66.125,101
+High Emissions (RCP 8.5),2094,50,73.34375,112
+High Emissions (RCP 8.5),2095,24,65.15625,92
+High Emissions (RCP 8.5),2096,33,72.78125,109
+High Emissions (RCP 8.5),2097,39,72.125,113
+High Emissions (RCP 8.5),2098,46,74.375,125
+High Emissions (RCP 8.5),2099,39,72.15625,139
+High Emissions (RCP 8.5),2100,47,73.3103448276,118
+Modeled Historical,1950,0,4.09375,13
+Modeled Historical,1951,0,3.6875,12
+Modeled Historical,1952,0,2.625,9
+Modeled Historical,1953,0,3.84375,11
+Modeled Historical,1954,0,5,15
+Modeled Historical,1955,0,4,12
+Modeled Historical,1956,0,3.875,14
+Modeled Historical,1957,0,5.125,14
+Modeled Historical,1958,0,3.75,12
+Modeled Historical,1959,0,3.625,12
+Modeled Historical,1960,0,4.46875,17
+Modeled Historical,1961,0,4.40625,15
+Modeled Historical,1962,0,3.8125,13
+Modeled Historical,1963,0,4.84375,13
+Modeled Historical,1964,0,4.84375,16
+Modeled Historical,1965,0,3.5625,8
+Modeled Historical,1966,0,4.21875,19
+Modeled Historical,1967,0,3.8125,12
+Modeled Historical,1968,0,3.9375,13
+Modeled Historical,1969,0,3.34375,13
+Modeled Historical,1970,0,3.5625,12
+Modeled Historical,1971,0,5.03125,15
+Modeled Historical,1972,0,4.9375,15
+Modeled Historical,1973,0,5.78125,13
+Modeled Historical,1974,0,4.46875,12
+Modeled Historical,1975,0,4.0625,13
+Modeled Historical,1976,0,4.40625,11
+Modeled Historical,1977,0,4.78125,13
+Modeled Historical,1978,0,5.21875,15
+Modeled Historical,1979,0,4.96875,20
+Modeled Historical,1980,0,5.84375,16
+Modeled Historical,1981,0,5.875,17
+Modeled Historical,1982,0,5.09375,21
+Modeled Historical,1983,0,4.53125,10
+Modeled Historical,1984,0,4.75,11
+Modeled Historical,1985,0,5,14
+Modeled Historical,1986,0,6.0625,32
+Modeled Historical,1987,0,7.03125,17
+Modeled Historical,1988,0,7.1875,18
+Modeled Historical,1989,0,5.84375,16
+Modeled Historical,1990,0,5.78125,17
+Modeled Historical,1991,0,7.25,18
+Modeled Historical,1992,0,5.25,15
+Modeled Historical,1993,0,5.4375,13
+Modeled Historical,1994,0,7.03125,16
+Modeled Historical,1995,0,5.65625,15
+Modeled Historical,1996,0,7.46875,20
+Modeled Historical,1997,0,5.8125,16
+Modeled Historical,1998,0,9.375,27
+Modeled Historical,1999,0,7.46875,25
+Modeled Historical,2000,0,9.5625,19
+Modeled Historical,2001,1,8.375,22
+Modeled Historical,2002,2,9.625,19
+Modeled Historical,2003,0,9.125,20
+Modeled Historical,2004,1,9.71875,26
+Modeled Historical,2005,3,10.0625,23
+Observed,1950,,23,
+Observed,1951,,3,
+Observed,1952,,8,
+Observed,1953,,6,
+Observed,1954,,5,
+Observed,1955,,2,
+Observed,1956,,2,
+Observed,1957,,4,
+Observed,1958,,6,
+Observed,1959,,16,
+Observed,1960,,9,
+Observed,1961,,18,
+Observed,1962,,3,
+Observed,1963,,0,
+Observed,1964,,1,
+Observed,1965,,0,
+Observed,1966,,4,
+Observed,1967,,4,
+Observed,1968,,0,
+Observed,1969,,0,
+Observed,1970,,3,
+Observed,1971,,3,
+Observed,1972,,7,
+Observed,1973,,4,
+Observed,1974,,1,
+Observed,1975,,3,
+Observed,1976,,2,
+Observed,1977,,0,
+Observed,1978,,0,
+Observed,1979,,2,
+Observed,1980,,9,
+Observed,1981,,3,
+Observed,1982,,3,
+Observed,1983,,0,
+Observed,1984,,4,
+Observed,1985,,9,
+Observed,1986,,1,
+Observed,1987,,3,
+Observed,1988,,3,
+Observed,1989,,7,
+Observed,1990,,9,
+Observed,1991,,5,
+Observed,1992,,0,
+Observed,1993,,4,
+Observed,1994,,14,
+Observed,1995,,10,
+Observed,1996,,14,
+Observed,1997,,6,
+Observed,1998,,9,
+Observed,1999,,1,
+Observed,2000,,3,
+Observed,2001,,6,
+Observed,2002,,13,
+Observed,2003,,9,
+Observed,2004,,2,
+Observed,2005,,8,
+Observed,2006,,12,
